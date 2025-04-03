@@ -91,7 +91,7 @@ else:
         },
         'slave': {
             'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': 'sqlite_slave.db',
+            'NAME': 'sqlite_slave.db'
         }
     }
 
